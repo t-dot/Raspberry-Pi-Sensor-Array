@@ -1,0 +1,1210 @@
+15:12:44 08/21/2018 
+Temp= 28.684520 ;*C 
+Humidity= 40.187111 ;% 
+Pressure= 758.456436 ;torr 
+Altitude= 17.150777 ;meters 
+Full Spectrum(IR + Visible)= 54 ;lux 
+Infrared Value= 10 ;lux 
+Visible Value= 44 ;lux 
+CO2= 930.000000 ;ppm 
+ 
+15:12:54 08/21/2018 
+Temp= 28.744489 ;*C 
+Humidity= 53.041990 ;% 
+Pressure= 758.477484 ;torr 
+Altitude= 16.916763 ;meters 
+Full Spectrum(IR + Visible)= 81 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 67 ;lux 
+CO2= 879.000000 ;ppm 
+ 
+15:13:04 08/21/2018 
+Temp= 28.807631 ;*C 
+Humidity= 57.890328 ;% 
+Pressure= 758.484469 ;torr 
+Altitude= 16.839109 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 581.000000 ;ppm 
+ 
+15:13:14 08/21/2018 
+Temp= 28.859667 ;*C 
+Humidity= 60.750597 ;% 
+Pressure= 758.508709 ;torr 
+Altitude= 16.569619 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 376.000000 ;ppm 
+ 
+15:13:24 08/21/2018 
+Temp= 28.894887 ;*C 
+Humidity= 62.011443 ;% 
+Pressure= 758.511289 ;torr 
+Altitude= 16.540940 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 242.000000 ;ppm 
+ 
+15:13:34 08/21/2018 
+Temp= 28.921223 ;*C 
+Humidity= 62.793711 ;% 
+Pressure= 758.505793 ;torr 
+Altitude= 16.602036 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 159.000000 ;ppm 
+ 
+15:13:44 08/21/2018 
+Temp= 28.942482 ;*C 
+Humidity= 63.319235 ;% 
+Pressure= 758.501890 ;torr 
+Altitude= 16.645429 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 106.000000 ;ppm 
+ 
+15:13:54 08/21/2018 
+Temp= 28.956443 ;*C 
+Humidity= 63.582142 ;% 
+Pressure= 758.494156 ;torr 
+Altitude= 16.731419 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 80.000000 ;ppm 
+ 
+15:14:04 08/21/2018 
+Temp= 28.967548 ;*C 
+Humidity= 63.722541 ;% 
+Pressure= 758.485689 ;torr 
+Altitude= 16.825545 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 64.000000 ;ppm 
+ 
+15:14:15 08/21/2018 
+Temp= 28.974846 ;*C 
+Humidity= 63.740386 ;% 
+Pressure= 758.493394 ;torr 
+Altitude= 16.739882 ;meters 
+Full Spectrum(IR + Visible)= 81 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 67 ;lux 
+CO2= 52.000000 ;ppm 
+ 
+15:14:25 08/21/2018 
+Temp= 28.979922 ;*C 
+Humidity= 63.775599 ;% 
+Pressure= 758.499550 ;torr 
+Altitude= 16.671444 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 45.000000 ;ppm 
+ 
+15:14:35 08/21/2018 
+Temp= 28.979922 ;*C 
+Humidity= 63.758117 ;% 
+Pressure= 758.473712 ;torr 
+Altitude= 16.958708 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 43.000000 ;ppm 
+ 
+15:14:45 08/21/2018 
+Temp= 28.979922 ;*C 
+Humidity= 63.752289 ;% 
+Pressure= 758.475004 ;torr 
+Altitude= 16.944345 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 40.000000 ;ppm 
+ 
+15:14:55 08/21/2018 
+Temp= 28.973894 ;*C 
+Humidity= 63.705374 ;% 
+Pressure= 758.466372 ;torr 
+Altitude= 17.040307 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 40.000000 ;ppm 
+ 
+15:15:05 08/21/2018 
+Temp= 28.982144 ;*C 
+Humidity= 63.775704 ;% 
+Pressure= 758.477608 ;torr 
+Altitude= 16.915390 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 39.000000 ;ppm 
+ 
+15:15:15 08/21/2018 
+Temp= 28.995470 ;*C 
+Humidity= 63.892904 ;% 
+Pressure= 758.475620 ;torr 
+Altitude= 16.937490 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:15:25 08/21/2018 
+Temp= 29.009431 ;*C 
+Humidity= 64.010145 ;% 
+Pressure= 758.478455 ;torr 
+Altitude= 16.905976 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 39.000000 ;ppm 
+ 
+15:15:35 08/21/2018 
+Temp= 29.013239 ;*C 
+Humidity= 63.922918 ;% 
+Pressure= 758.471325 ;torr 
+Altitude= 16.985242 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 39.000000 ;ppm 
+ 
+15:15:45 08/21/2018 
+Temp= 29.019902 ;*C 
+Humidity= 63.853315 ;% 
+Pressure= 758.476790 ;torr 
+Altitude= 16.924478 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:15:55 08/21/2018 
+Temp= 29.022440 ;*C 
+Humidity= 63.900061 ;% 
+Pressure= 758.866184 ;torr 
+Altitude= 12.596202 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 68 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:16:05 08/21/2018 
+Temp= 29.029738 ;*C 
+Humidity= 63.859633 ;% 
+Pressure= 760.914106 ;torr 
+Altitude= -10.137797 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:16:15 08/21/2018 
+Temp= 29.030690 ;*C 
+Humidity= 63.766435 ;% 
+Pressure= 761.256419 ;torr 
+Altitude= -13.932990 ;meters 
+Full Spectrum(IR + Visible)= 67 ;lux 
+Infrared Value= 12 ;lux 
+Visible Value= 55 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:16:25 08/21/2018 
+Temp= 29.030055 ;*C 
+Humidity= 63.970369 ;% 
+Pressure= 761.432494 ;torr 
+Altitude= -15.884571 ;meters 
+Full Spectrum(IR + Visible)= 68 ;lux 
+Infrared Value= 12 ;lux 
+Visible Value= 56 ;lux 
+CO2= 38.000000 ;ppm 
+ 
+15:16:35 08/21/2018 
+Temp= 29.031007 ;*C 
+Humidity= 63.947107 ;% 
+Pressure= 761.471155 ;torr 
+Altitude= -16.313034 ;meters 
+Full Spectrum(IR + Visible)= 78 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 64 ;lux 
+CO2= 37.000000 ;ppm 
+ 
+15:16:45 08/21/2018 
+Temp= 29.038305 ;*C 
+Humidity= 63.895023 ;% 
+Pressure= 761.233382 ;torr 
+Altitude= -13.677625 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 68 ;lux 
+CO2= 37.000000 ;ppm 
+ 
+15:16:55 08/21/2018 
+Temp= 29.038622 ;*C 
+Humidity= 63.918344 ;% 
+Pressure= 758.737257 ;torr 
+Altitude= 14.029082 ;meters 
+Full Spectrum(IR + Visible)= 88 ;lux 
+Infrared Value= 16 ;lux 
+Visible Value= 72 ;lux 
+CO2= 37.000000 ;ppm 
+ 
+15:17:05 08/21/2018 
+Temp= 28.975798 ;*C 
+Humidity= 37.509409 ;% 
+Pressure= 759.053986 ;torr 
+Altitude= 10.509339 ;meters 
+Full Spectrum(IR + Visible)= 88 ;lux 
+Infrared Value= 16 ;lux 
+Visible Value= 72 ;lux 
+CO2= 37.000000 ;ppm 
+ 
+15:17:15 08/21/2018 
+Temp= 28.808900 ;*C 
+Humidity= 16.678569 ;% 
+Pressure= 759.896333 ;torr 
+Altitude= 1.154310 ;meters 
+Full Spectrum(IR + Visible)= 87 ;lux 
+Infrared Value= 16 ;lux 
+Visible Value= 71 ;lux 
+CO2= 35.000000 ;ppm 
+ 
+15:17:25 08/21/2018 
+Temp= 28.791132 ;*C 
+Humidity= 35.690850 ;% 
+Pressure= 758.673572 ;torr 
+Altitude= 14.736937 ;meters 
+Full Spectrum(IR + Visible)= 79 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 65 ;lux 
+CO2= 34.000000 ;ppm 
+ 
+15:17:35 08/21/2018 
+Temp= 28.840312 ;*C 
+Humidity= 50.688471 ;% 
+Pressure= 758.432309 ;torr 
+Altitude= 17.419026 ;meters 
+Full Spectrum(IR + Visible)= 53 ;lux 
+Infrared Value= 9 ;lux 
+Visible Value= 44 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:17:45 08/21/2018 
+Temp= 28.848879 ;*C 
+Humidity= 46.528026 ;% 
+Pressure= 758.476310 ;torr 
+Altitude= 16.929815 ;meters 
+Full Spectrum(IR + Visible)= 58 ;lux 
+Infrared Value= 10 ;lux 
+Visible Value= 48 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:17:55 08/21/2018 
+Temp= 28.843168 ;*C 
+Humidity= 45.298129 ;% 
+Pressure= 758.451360 ;torr 
+Altitude= 17.207208 ;meters 
+Full Spectrum(IR + Visible)= 80 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 66 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:18:05 08/21/2018 
+Temp= 28.850783 ;*C 
+Humidity= 45.883893 ;% 
+Pressure= 758.446387 ;torr 
+Altitude= 17.262506 ;meters 
+Full Spectrum(IR + Visible)= 77 ;lux 
+Infrared Value= 13 ;lux 
+Visible Value= 64 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:18:16 08/21/2018 
+Temp= 28.882830 ;*C 
+Humidity= 54.097379 ;% 
+Pressure= 758.442592 ;torr 
+Altitude= 17.304696 ;meters 
+Full Spectrum(IR + Visible)= 81 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 67 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:18:26 08/21/2018 
+Temp= 28.920271 ;*C 
+Humidity= 57.801008 ;% 
+Pressure= 758.442603 ;torr 
+Altitude= 17.304577 ;meters 
+Full Spectrum(IR + Visible)= 77 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 63 ;lux 
+CO2= 30.000000 ;ppm 
+ 
+15:18:36 08/21/2018 
+Temp= 28.950414 ;*C 
+Humidity= 59.564485 ;% 
+Pressure= 758.456048 ;torr 
+Altitude= 17.155095 ;meters 
+Full Spectrum(IR + Visible)= 77 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 63 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:18:46 08/21/2018 
+Temp= 28.973894 ;*C 
+Humidity= 60.382149 ;% 
+Pressure= 758.452161 ;torr 
+Altitude= 17.198306 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 67 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:18:56 08/21/2018 
+Temp= 28.998326 ;*C 
+Humidity= 60.797311 ;% 
+Pressure= 758.457208 ;torr 
+Altitude= 17.142193 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 67 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:19:06 08/21/2018 
+Temp= 29.022757 ;*C 
+Humidity= 61.136646 ;% 
+Pressure= 758.462253 ;torr 
+Altitude= 17.086098 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:19:16 08/21/2018 
+Temp= 29.044651 ;*C 
+Humidity= 61.522528 ;% 
+Pressure= 758.452591 ;torr 
+Altitude= 17.193522 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:19:26 08/21/2018 
+Temp= 29.066544 ;*C 
+Humidity= 61.803432 ;% 
+Pressure= 758.466185 ;torr 
+Altitude= 17.042390 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:19:36 08/21/2018 
+Temp= 29.083361 ;*C 
+Humidity= 61.961644 ;% 
+Pressure= 758.458117 ;torr 
+Altitude= 17.132087 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 31.000000 ;ppm 
+ 
+15:19:46 08/21/2018 
+Temp= 29.102081 ;*C 
+Humidity= 61.997480 ;% 
+Pressure= 758.464045 ;torr 
+Altitude= 17.066183 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:19:56 08/21/2018 
+Temp= 29.101130 ;*C 
+Humidity= 61.991604 ;% 
+Pressure= 758.437018 ;torr 
+Altitude= 17.366673 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:06 08/21/2018 
+Temp= 29.122071 ;*C 
+Humidity= 61.928400 ;% 
+Pressure= 758.444492 ;torr 
+Altitude= 17.283569 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:16 08/21/2018 
+Temp= 29.142061 ;*C 
+Humidity= 61.818474 ;% 
+Pressure= 758.422116 ;torr 
+Altitude= 17.532355 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:26 08/21/2018 
+Temp= 29.157608 ;*C 
+Humidity= 61.708335 ;% 
+Pressure= 758.399462 ;torr 
+Altitude= 17.784230 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:36 08/21/2018 
+Temp= 29.172204 ;*C 
+Humidity= 61.650652 ;% 
+Pressure= 758.413337 ;torr 
+Altitude= 17.629960 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 67 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:46 08/21/2018 
+Temp= 29.182358 ;*C 
+Humidity= 61.534428 ;% 
+Pressure= 758.403675 ;torr 
+Altitude= 17.737385 ;meters 
+Full Spectrum(IR + Visible)= 82 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 67 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:20:56 08/21/2018 
+Temp= 29.189655 ;*C 
+Humidity= 61.499751 ;% 
+Pressure= 758.401038 ;torr 
+Altitude= 17.766705 ;meters 
+Full Spectrum(IR + Visible)= 81 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 66 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:06 08/21/2018 
+Temp= 29.200126 ;*C 
+Humidity= 61.506040 ;% 
+Pressure= 758.391612 ;torr 
+Altitude= 17.871511 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:16 08/21/2018 
+Temp= 29.211232 ;*C 
+Humidity= 61.518198 ;% 
+Pressure= 758.383132 ;torr 
+Altitude= 17.965799 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:26 08/21/2018 
+Temp= 29.220750 ;*C 
+Humidity= 61.477779 ;% 
+Pressure= 758.389560 ;torr 
+Altitude= 17.894334 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:36 08/21/2018 
+Temp= 29.224241 ;*C 
+Humidity= 61.477933 ;% 
+Pressure= 758.380896 ;torr 
+Altitude= 17.990669 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:46 08/21/2018 
+Temp= 29.229635 ;*C 
+Humidity= 61.664863 ;% 
+Pressure= 758.373069 ;torr 
+Altitude= 18.077693 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:21:56 08/21/2018 
+Temp= 29.226779 ;*C 
+Humidity= 61.804759 ;% 
+Pressure= 758.364586 ;torr 
+Altitude= 18.172016 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:06 08/21/2018 
+Temp= 29.239471 ;*C 
+Humidity= 61.922005 ;% 
+Pressure= 758.367044 ;torr 
+Altitude= 18.144678 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:16 08/21/2018 
+Temp= 29.247086 ;*C 
+Humidity= 62.015688 ;% 
+Pressure= 758.355595 ;torr 
+Altitude= 18.271989 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:26 08/21/2018 
+Temp= 29.256922 ;*C 
+Humidity= 61.911116 ;% 
+Pressure= 758.354503 ;torr 
+Altitude= 18.284131 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:37 08/21/2018 
+Temp= 29.263903 ;*C 
+Humidity= 61.613874 ;% 
+Pressure= 758.344927 ;torr 
+Altitude= 18.390604 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:47 08/21/2018 
+Temp= 29.271835 ;*C 
+Humidity= 61.322466 ;% 
+Pressure= 758.336298 ;torr 
+Altitude= 18.486556 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:22:57 08/21/2018 
+Temp= 29.280720 ;*C 
+Humidity= 61.001893 ;% 
+Pressure= 758.336843 ;torr 
+Altitude= 18.480492 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:07 08/21/2018 
+Temp= 29.288652 ;*C 
+Humidity= 60.827140 ;% 
+Pressure= 758.338554 ;torr 
+Altitude= 18.461474 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:17 08/21/2018 
+Temp= 29.298171 ;*C 
+Humidity= 60.909256 ;% 
+Pressure= 758.343686 ;torr 
+Altitude= 18.404403 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:27 08/21/2018 
+Temp= 29.304517 ;*C 
+Humidity= 60.606021 ;% 
+Pressure= 758.338569 ;torr 
+Altitude= 18.461298 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:37 08/21/2018 
+Temp= 29.313084 ;*C 
+Humidity= 60.413744 ;% 
+Pressure= 758.343574 ;torr 
+Altitude= 18.405646 ;meters 
+Full Spectrum(IR + Visible)= 83 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 68 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:47 08/21/2018 
+Temp= 29.321334 ;*C 
+Humidity= 60.244800 ;% 
+Pressure= 758.353750 ;torr 
+Altitude= 18.292503 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:23:57 08/21/2018 
+Temp= 29.324189 ;*C 
+Humidity= 60.163181 ;% 
+Pressure= 758.341551 ;torr 
+Altitude= 18.428142 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:07 08/21/2018 
+Temp= 29.335295 ;*C 
+Humidity= 60.011842 ;% 
+Pressure= 758.353747 ;torr 
+Altitude= 18.292538 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:17 08/21/2018 
+Temp= 29.340371 ;*C 
+Humidity= 59.860244 ;% 
+Pressure= 758.340509 ;torr 
+Altitude= 18.439728 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:27 08/21/2018 
+Temp= 29.346400 ;*C 
+Humidity= 59.755388 ;% 
+Pressure= 758.346552 ;torr 
+Altitude= 18.372536 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:37 08/21/2018 
+Temp= 29.355602 ;*C 
+Humidity= 59.761594 ;% 
+Pressure= 758.343454 ;torr 
+Altitude= 18.406984 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:47 08/21/2018 
+Temp= 29.361630 ;*C 
+Humidity= 59.627533 ;% 
+Pressure= 758.327521 ;torr 
+Altitude= 18.584151 ;meters 
+Full Spectrum(IR + Visible)= 86 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 71 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:24:57 08/21/2018 
+Temp= 29.359092 ;*C 
+Humidity= 59.498963 ;% 
+Pressure= 758.337372 ;torr 
+Altitude= 18.474615 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:07 08/21/2018 
+Temp= 29.368611 ;*C 
+Humidity= 59.627812 ;% 
+Pressure= 758.341210 ;torr 
+Altitude= 18.431936 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:17 08/21/2018 
+Temp= 29.375274 ;*C 
+Humidity= 59.452884 ;% 
+Pressure= 758.345377 ;torr 
+Altitude= 18.385602 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:27 08/21/2018 
+Temp= 29.383207 ;*C 
+Humidity= 59.406479 ;% 
+Pressure= 758.342151 ;torr 
+Altitude= 18.421473 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:37 08/21/2018 
+Temp= 29.386379 ;*C 
+Humidity= 59.301478 ;% 
+Pressure= 758.343351 ;torr 
+Altitude= 18.408125 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:47 08/21/2018 
+Temp= 29.389870 ;*C 
+Humidity= 59.289934 ;% 
+Pressure= 758.345025 ;torr 
+Altitude= 18.389516 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:25:57 08/21/2018 
+Temp= 29.394947 ;*C 
+Humidity= 59.301813 ;% 
+Pressure= 758.348592 ;torr 
+Altitude= 18.349858 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:07 08/21/2018 
+Temp= 29.401292 ;*C 
+Humidity= 59.138519 ;% 
+Pressure= 758.345821 ;torr 
+Altitude= 18.380664 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:17 08/21/2018 
+Temp= 29.404148 ;*C 
+Humidity= 58.963404 ;% 
+Pressure= 758.335150 ;torr 
+Altitude= 18.499324 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:27 08/21/2018 
+Temp= 29.402879 ;*C 
+Humidity= 58.829003 ;% 
+Pressure= 758.337372 ;torr 
+Altitude= 18.474615 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:38 08/21/2018 
+Temp= 29.410811 ;*C 
+Humidity= 58.490487 ;% 
+Pressure= 758.343195 ;torr 
+Altitude= 18.409871 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:48 08/21/2018 
+Temp= 29.419378 ;*C 
+Humidity= 58.578438 ;% 
+Pressure= 758.332920 ;torr 
+Altitude= 18.524113 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:26:58 08/21/2018 
+Temp= 29.421600 ;*C 
+Humidity= 58.485045 ;% 
+Pressure= 758.339402 ;torr 
+Altitude= 18.452046 ;meters 
+Full Spectrum(IR + Visible)= 50 ;lux 
+Infrared Value= 10 ;lux 
+Visible Value= 40 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:08 08/21/2018 
+Temp= 29.378447 ;*C 
+Humidity= 58.489281 ;% 
+Pressure= 758.327187 ;torr 
+Altitude= 18.587870 ;meters 
+Full Spectrum(IR + Visible)= 43 ;lux 
+Infrared Value= 8 ;lux 
+Visible Value= 35 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:18 08/21/2018 
+Temp= 29.332756 ;*C 
+Humidity= 58.417486 ;% 
+Pressure= 758.319647 ;torr 
+Altitude= 18.671705 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:28 08/21/2018 
+Temp= 29.287700 ;*C 
+Humidity= 58.363254 ;% 
+Pressure= 758.329852 ;torr 
+Altitude= 18.558233 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:38 08/21/2018 
+Temp= 29.242327 ;*C 
+Humidity= 58.303169 ;% 
+Pressure= 758.312197 ;torr 
+Altitude= 18.754546 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:48 08/21/2018 
+Temp= 29.201078 ;*C 
+Humidity= 58.208213 ;% 
+Pressure= 758.307499 ;torr 
+Altitude= 18.806788 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:27:58 08/21/2018 
+Temp= 29.169031 ;*C 
+Humidity= 58.183680 ;% 
+Pressure= 758.320381 ;torr 
+Altitude= 18.663548 ;meters 
+Full Spectrum(IR + Visible)= 79 ;lux 
+Infrared Value= 14 ;lux 
+Visible Value= 65 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:28:08 08/21/2018 
+Temp= 29.183309 ;*C 
+Humidity= 58.020690 ;% 
+Pressure= 758.332488 ;torr 
+Altitude= 18.528921 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:28:18 08/21/2018 
+Temp= 29.216308 ;*C 
+Humidity= 58.033568 ;% 
+Pressure= 758.316911 ;torr 
+Altitude= 18.702128 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:28:28 08/21/2018 
+Temp= 29.248990 ;*C 
+Humidity= 58.163245 ;% 
+Pressure= 758.324120 ;torr 
+Altitude= 18.621963 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:28:38 08/21/2018 
+Temp= 29.282623 ;*C 
+Humidity= 58.170321 ;% 
+Pressure= 758.310774 ;torr 
+Altitude= 18.770373 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:28:48 08/21/2018 
+Temp= 29.312449 ;*C 
+Humidity= 58.130518 ;% 
+Pressure= 758.314427 ;torr 
+Altitude= 18.729747 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:28:58 08/21/2018 
+Temp= 29.337833 ;*C 
+Humidity= 58.137285 ;% 
+Pressure= 758.310288 ;torr 
+Altitude= 18.775781 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:08 08/21/2018 
+Temp= 29.365121 ;*C 
+Humidity= 58.068177 ;% 
+Pressure= 758.320146 ;torr 
+Altitude= 18.666161 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:18 08/21/2018 
+Temp= 29.391456 ;*C 
+Humidity= 57.969810 ;% 
+Pressure= 758.323648 ;torr 
+Altitude= 18.627213 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:28 08/21/2018 
+Temp= 29.420648 ;*C 
+Humidity= 57.842311 ;% 
+Pressure= 758.308484 ;torr 
+Altitude= 18.795839 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:38 08/21/2018 
+Temp= 29.445397 ;*C 
+Humidity= 57.901633 ;% 
+Pressure= 758.307503 ;torr 
+Altitude= 18.806744 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:48 08/21/2018 
+Temp= 29.464117 ;*C 
+Humidity= 57.726990 ;% 
+Pressure= 758.326337 ;torr 
+Altitude= 18.597314 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:29:58 08/21/2018 
+Temp= 29.477127 ;*C 
+Humidity= 57.633939 ;% 
+Pressure= 758.317387 ;torr 
+Altitude= 18.696840 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:30:08 08/21/2018 
+Temp= 29.492674 ;*C 
+Humidity= 57.470839 ;% 
+Pressure= 758.328556 ;torr 
+Altitude= 18.572643 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:30:18 08/21/2018 
+Temp= 29.505049 ;*C 
+Humidity= 57.371903 ;% 
+Pressure= 758.322773 ;torr 
+Altitude= 18.636945 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:30:28 08/21/2018 
+Temp= 29.523135 ;*C 
+Humidity= 57.255623 ;% 
+Pressure= 758.327966 ;torr 
+Altitude= 18.579203 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:30:39 08/21/2018 
+Temp= 29.532019 ;*C 
+Humidity= 57.250080 ;% 
+Pressure= 758.319216 ;torr 
+Altitude= 18.676494 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 33.000000 ;ppm 
+ 
+15:30:49 08/21/2018 
+Temp= 29.541855 ;*C 
+Humidity= 57.156888 ;% 
+Pressure= 758.331282 ;torr 
+Altitude= 18.542333 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:30:59 08/21/2018 
+Temp= 29.557086 ;*C 
+Humidity= 56.970325 ;% 
+Pressure= 758.325166 ;torr 
+Altitude= 18.610339 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:09 08/21/2018 
+Temp= 29.565335 ;*C 
+Humidity= 57.029068 ;% 
+Pressure= 758.318291 ;torr 
+Altitude= 18.686780 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:19 08/21/2018 
+Temp= 29.572633 ;*C 
+Humidity= 56.918225 ;% 
+Pressure= 758.308941 ;torr 
+Altitude= 18.790758 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:29 08/21/2018 
+Temp= 29.589767 ;*C 
+Humidity= 56.679066 ;% 
+Pressure= 758.320706 ;torr 
+Altitude= 18.659932 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:39 08/21/2018 
+Temp= 29.598334 ;*C 
+Humidity= 56.679351 ;% 
+Pressure= 758.328528 ;torr 
+Altitude= 18.572951 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:49 08/21/2018 
+Temp= 29.611026 ;*C 
+Humidity= 56.551118 ;% 
+Pressure= 758.332266 ;torr 
+Altitude= 18.531390 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:31:59 08/21/2018 
+Temp= 29.619593 ;*C 
+Humidity= 56.411044 ;% 
+Pressure= 758.325863 ;torr 
+Altitude= 18.602592 ;meters 
+Full Spectrum(IR + Visible)= 84 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 69 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:32:09 08/21/2018 
+Temp= 29.630382 ;*C 
+Humidity= 56.352908 ;% 
+Pressure= 758.310422 ;torr 
+Altitude= 18.774288 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:32:19 08/21/2018 
+Temp= 29.633237 ;*C 
+Humidity= 56.271122 ;% 
+Pressure= 758.308797 ;torr 
+Altitude= 18.792355 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:32:29 08/21/2018 
+Temp= 29.631016 ;*C 
+Humidity= 56.165768 ;% 
+Pressure= 758.300785 ;torr 
+Altitude= 18.881441 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:32:39 08/21/2018 
+Temp= 29.632285 ;*C 
+Humidity= 56.142416 ;% 
+Pressure= 758.305028 ;torr 
+Altitude= 18.834268 ;meters 
+Full Spectrum(IR + Visible)= 85 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 70 ;lux 
+CO2= 32.000000 ;ppm 
+ 
+15:32:49 08/21/2018 
+Temp= 29.636410 ;*C 
+Humidity= 56.142547 ;% 
+Pressure= 758.299649 ;torr 
+Altitude= 18.894077 ;meters 
+Full Spectrum(IR + Visible)= 81 ;lux 
+Infrared Value= 15 ;lux 
+Visible Value= 66 ;lux 
+CO2= 32.000000 ;ppm 
+ 
